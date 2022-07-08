@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/statspreviewcard-html-css-flexbox-gx2D6Ltq2Z)
+- Live Site URL: [Netlify](https://taupe-piroshki-c1ce14.netlify.app/)
 
 ## My process
 
